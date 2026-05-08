@@ -1,4 +1,4 @@
 {
-  "enabled": true,
-  "return_time": "20:00"
+  "enabled": false,
+  "return_time": ""
 }

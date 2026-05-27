@@ -1,6 +1,6 @@
 {
-  "enabled": false,
+  "enabled": true,
   "type": "maintenance",
-  "variant": "orange",
-  "message": "O Escala Jornadas entrará em manutenção preventiva em <strong>14 de maio às 21h</strong> para melhorar a estabilidade e a segurança do sistema. Voltaremos logo! 🚀 "
+  "variant": "green",
+  "message": "O Escala Jornadas passará por uma manutenção preventiva em <strong>27 de maio, a partir das 21h</strong> para evoluirmos a estabilidade e a segurança da plataforma. 🚀 "
 }
